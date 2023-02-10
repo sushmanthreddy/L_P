@@ -1,13 +1,12 @@
 ---
-title: Lineage Population
-emoji: 💻
-colorFrom: green
-colorTo: yellow
+title: N  LPP
+emoji: 📉
+colorFrom: indigo
+colorTo: blue
 sdk: streamlit
 sdk_version: 1.17.0
 app_file: app.py
 pinned: false
 ---
 
-# devolearn-web
-devolearn model lineage population deployed on a webapp
+Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
